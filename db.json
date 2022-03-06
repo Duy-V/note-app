@@ -1,19 +1,39 @@
 {
   "notes": [
     {
-      "id": "1",
-      "text": "This is my first note",
-      "date": "15/04/2021"
+      "id": "ca5dbc53-12dd-45b0-bb6b-49b75acec267",
+      "text": "coding\nplaying piano\nchinese\nEnglish",
+      "backgroundColor": "#b693fd",
+      "updatedTime": "2022-03-03T16:01:47.084Z",
+      "title": "My skills i want to reach"
     },
     {
-      "id": "2",
-      "text": "This is my second note",
-      "date": "15/04/2021"
+      "id": "e40b48b3-1763-4652-84b5-a8d3ba077887",
+      "text": "coding,\nchinese,\nenglish,",
+      "backgroundColor": "#fe9b72",
+      "updatedTime": "2022-03-03T17:34:34.432Z",
+      "title": "there are my skills:"
     },
     {
-      "id": "3",
-      "text": "This is my third note",
-      "date": "15/04/2021"
+      "id": "f2cd0506-a80e-42ae-b096-9223dbe547c5",
+      "text": "playing piano\nswimming,\ncoding,\nreading book",
+      "backgroundColor": "#00d4fe",
+      "updatedTime": "2022-03-03T17:57:55.945Z",
+      "title": "my hobbies:"
+    },
+    {
+      "id": "d69bf2ab-d8dd-4986-a553-e93521b9b389",
+      "text": "",
+      "backgroundColor": "#00d4fe",
+      "updatedTime": "2022-03-06T00:55:33.467Z",
+      "title": ""
+    },
+    {
+      "id": "7bfe56b6-5b6b-4884-bcce-82d13364a6c1",
+      "text": "",
+      "backgroundColor": "#00d4fe",
+      "updatedTime": "2022-03-06T00:55:35.138Z",
+      "title": ""
     }
   ]
 }
